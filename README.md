@@ -181,6 +181,7 @@ This is a basic blockchain implementation using Python and Flask.
 - Mine blocks
 - Add transactions
 - Validate chain
+- validateee
 
 ## Run
 
